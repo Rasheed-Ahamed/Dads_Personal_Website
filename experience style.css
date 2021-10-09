@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+body 
+{ 
+    margin: 0; 
+}
+
+
 .navbar-style
 {
     box-shadow: 0 5px 10px #efefef;
